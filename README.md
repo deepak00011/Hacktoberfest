@@ -25,7 +25,7 @@ if you fail to make 4 pull request then you cant get swags or t-shirts.
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest-2022-blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/rohitadarsh16/" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
@@ -33,7 +33,7 @@ if you fail to make 4 pull request then you cant get swags or t-shirts.
 
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2023 challenge and earn a limited edition T-shirt.
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
