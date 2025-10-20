@@ -31,3 +31,9 @@ async def get_festivals(year: int):
 @app.get("/wishyou/")
 async def wishyou():
     return {"message": "Wishing you a joyful festival season!"}
+
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+    
