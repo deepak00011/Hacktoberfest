@@ -8,8 +8,10 @@ public class NewsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NewsApplication.class, args);
+        System.out.println("NewsApplication is running..."); // optional startup message
     }
 
+    // Bean for RestTemplate to make HTTP requests
     @Bean
     public RestTemplate restTemplate() {
         return new RestTemplate();
